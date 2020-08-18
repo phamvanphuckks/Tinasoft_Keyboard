@@ -1,0 +1,5 @@
+{
+    "postSocket":3009,
+    "topic":"print_ticket",
+    "baudRate":250000 
+}
